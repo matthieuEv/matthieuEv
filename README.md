@@ -9,15 +9,15 @@
 <div class="contact_container">
 
 
-<a href="#" target="blank" class="a">
+<a href="https://www.linkedin.com/in/matthieuev/" target="blank" class="a">
 <img class="contact"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40"/>
 </a>
 
-<a href="#" target="blank" class="a">
+<a href="https://www.instagram.com/__mattt_e_/" target="blank" class="a">
 <img class="contact"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40"/>
 </a>
 
-<a href="#" target="blank" class="a">
+<a href="https://www.youtube.com/channel/UCbZs9RHbYfqAkE3lxe30Xew" target="blank" class="a">
 <img class="contact"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="40" width="40"/>
 </a>
 
