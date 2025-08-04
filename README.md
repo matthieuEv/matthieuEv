@@ -1,7 +1,7 @@
 # Hi 👋 My name is Matthieu
 Computer and Electronic Engineering Student
 
-🌍  I'm based in Nantes | Angers , France
+🌍  I'm based in France
 
 🖥️  See my portfolio at [www.matthieu-evain.fr](http://www.matthieu-evain.fr/)
 
